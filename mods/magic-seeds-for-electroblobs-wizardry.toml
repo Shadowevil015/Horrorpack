@@ -1,0 +1,13 @@
+name = "Magic seeds for Electroblobs Wizardry"
+filename = "SeedsForWizardry 1.0 For MC Forge 1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2612/429/SeedsForWizardry 1.0 For MC Forge 1.12.2.jar"
+hash-format = "murmur2"
+hash = "143495703"
+
+[update]
+[update.curseforge]
+file-id = 2612429
+project-id = 302254

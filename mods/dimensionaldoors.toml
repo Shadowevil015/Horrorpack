@@ -1,0 +1,13 @@
+name = "DimensionalDoors"
+filename = "DimensionalDoors-1.12.2-3.0.10-b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3776/905/DimensionalDoors-1.12.2-3.0.10-b.jar"
+hash-format = "murmur2"
+hash = "4090520962"
+
+[update]
+[update.curseforge]
+file-id = 3776905
+project-id = 284876

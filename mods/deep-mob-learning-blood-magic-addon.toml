@@ -1,0 +1,13 @@
+name = "Deep Mob Learning - Blood Magic Addon"
+filename = "deepmoblearningbm-1.12.2-1.0.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2708/711/deepmoblearningbm-1.12.2-1.0.1-universal.jar"
+hash-format = "murmur2"
+hash = "161747098"
+
+[update]
+[update.curseforge]
+file-id = 2708711
+project-id = 297720

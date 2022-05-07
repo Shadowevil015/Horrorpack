@@ -1,0 +1,13 @@
+name = "Mystical Agriculture Tiered Crystals"
+filename = "matc-1.0.1-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2650/681/matc-1.0.1-hotfix.jar"
+hash-format = "murmur2"
+hash = "4269727081"
+
+[update]
+[update.curseforge]
+file-id = 2650681
+project-id = 299045

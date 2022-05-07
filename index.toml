@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "6ab9c507fec47e153c92db303fd10af1f384997b11196d72d263aa8222584fb9"
+
+[[files]]
+file = "list.js"
+hash = "b703782c7349e26cc64476ebf91ac01ba2cf4e591d821359fc899eb09223fc27"
+
+[[files]]
 file = "mods/abyssalcraft-integration.toml"
 hash = "16f01b445c2c5397a11edd76c2e885eb5dd88bdf8232875843311d6a4656b2ff"
 metafile = true
@@ -8,6 +16,11 @@ metafile = true
 [[files]]
 file = "mods/abyssalcraft.toml"
 hash = "41fbbb125033961e8d683bf2eb061188c64d4f5f676918dff34c71159a0204c7"
+metafile = true
+
+[[files]]
+file = "mods/aether.toml"
+hash = "46d7ba8ae2639114f742ea88daff8252116d2194c2d53fd6f89580d0e1260499"
 metafile = true
 
 [[files]]
@@ -21,6 +34,11 @@ hash = "17c039f61ca9d1b55c3c717be2f0d88ef81a2811bbe4e7e9c4f956a4531ea445"
 metafile = true
 
 [[files]]
+file = "mods/arcane-essentials.toml"
+hash = "6ce1bf8262c550bc6702d21ef0fb9fca841dd283813e833c68f9bf95a4aab45c"
+metafile = true
+
+[[files]]
 file = "mods/armor-chroma.toml"
 hash = "9a9f39864c81ade264962c33fe79dd651c9cbd241c97e6ac90d1814eded2ad6b"
 metafile = true
@@ -28,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/astral-sorcery.toml"
 hash = "f2ef556bdf752eff3ad4ff3f967a33da33868ae9c422d09f9cb31ad6ea7fa7c9"
+metafile = true
+
+[[files]]
+file = "mods/atum.toml"
+hash = "43826c223676e22e0d2b536ad579c5b7fe01e5f1de5add8fb0dd7ed9ece18381"
 metafile = true
 
 [[files]]
@@ -58,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "82022f11d4396aaaa00efa688fa3824e57fbeef03924fcb759c75d61cdab7931"
+metafile = true
+
+[[files]]
+file = "mods/blood-magic.toml"
+hash = "fbbb9ea146bc2f88f4e101e98c7b3a5341632a41f2670ca4d30f830a01062872"
 metafile = true
 
 [[files]]
@@ -96,8 +124,23 @@ hash = "b04ab33f35ae490ec7af5ccba7e8b6f731b7754acc04deeb4f1c7397e14a5691"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.toml"
+hash = "9e4f91e8f5bc9f732e5c4f05abd77717ec225cf5fe83a1ddf9b8661692e0965e"
+metafile = true
+
+[[files]]
 file = "mods/ctm.toml"
 hash = "bc75d8203e6f8e2fe15ddd0a1b9cb661c97199b53a7e9e36169083191451a5b0"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.toml"
+hash = "c7560b4e1cc51b5f4ffebb3b68a5bc180270664c6437a9a3f50742c985c55f74"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.toml"
+hash = "e2316381a935bc9ef10806c73190515cbf448eee77136b42b18d32655a281ae8"
 metafile = true
 
 [[files]]
@@ -111,8 +154,53 @@ hash = "ac74ce06e6fd7c6d6375bf4bdf2b1a1aeed6fe8aab9e1a3104c68bd8506e9afc"
 metafile = true
 
 [[files]]
+file = "mods/deep-mob-learning-blood-magic-addon.toml"
+hash = "063f4e7cc9e2ed22bdf06d4e3ed73572ac89db720f338b1974fad25d4cfdca31"
+metafile = true
+
+[[files]]
+file = "mods/deep-mob-learning.toml"
+hash = "87a059348296fcf368275b8b5cb2a7c39b975d679a78dab20e67b23471bd2f6e"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.toml"
+hash = "64210d69fa47aa8ffa8a26434ef4ab890ce9b8259ae755d720266acce18f0a68"
+metafile = true
+
+[[files]]
+file = "mods/electroblobs-wizardry-twilight-forest-spell-pack.toml"
+hash = "fc1a1f505e9d30c3620e2f1dbe7fc29dc5991b5707da85893e32b34df1123a28"
+metafile = true
+
+[[files]]
+file = "mods/electroblobs-wizardry.toml"
+hash = "84641a208a4055a2a25e52eb88b1f9a9532516e9bfb337d507d2600651fe573d"
+metafile = true
+
+[[files]]
 file = "mods/entity-culling.toml"
 hash = "538a79ad3cf0181d612e3ac5c65586a7a0a1c758fb860a3ab2469abd56c67bcf"
+metafile = true
+
+[[files]]
+file = "mods/erebusfix.toml"
+hash = "9d3e1c529ff8c51c52aec86ef2c55df6ccdbce71e3aba59f5d147dd0250bfd55"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.toml"
+hash = "65787967129ee8cfb9776473f6ed272f3d1025839b94fff7d842d6b58b9fb73e"
+metafile = true
+
+[[files]]
+file = "mods/extra-spells-electroblobs-wizardry.toml"
+hash = "1d5ea738d08d2c26934e82f45e11eb12a273c5c471b7a2dfb930145810dbd609"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights.toml"
+hash = "4203b504f023143a8e238235abbbc1e35a683684fb113e47af9b04443dd3b95c"
 metafile = true
 
 [[files]]
@@ -136,8 +224,18 @@ hash = "26f80d1dd1faa9d9f3f2676b312c4a409c5fd41fcf3045a41b6ddc80c181a02a"
 metafile = true
 
 [[files]]
+file = "mods/friendly-fire.toml"
+hash = "e321772ec323401b8190092b2a7c73d7437a7e02e812ba227eb4e639d3dd61c7"
+metafile = true
+
+[[files]]
 file = "mods/global-xp.toml"
 hash = "c7fee3bf67cefecce59df256c42a788038c81efed528238c0039e19508ae9436"
+metafile = true
+
+[[files]]
+file = "mods/guide-api.toml"
+hash = "ba0d39939c1029f6b78dfa8c3446894b1ae1bf8666ac9bf818a856034accb5e2"
 metafile = true
 
 [[files]]
@@ -156,6 +254,11 @@ hash = "98f5789620a61b4505f64c6c80654df5a4dae121138afd75ed634a30591c6753"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.toml"
+hash = "b3699c3784da55ebd38cf0adc687b608da6e7ec14ade3ca1423e01cd91e66aa7"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks.toml"
 hash = "0b983fac25b9bec09fcfc3d8fd999172338a41b1606677d63c0bb9df7c63b02c"
 metafile = true
@@ -166,8 +269,28 @@ hash = "f509cfc8188340dad5bd4af026b76428f7aae659edc19113fb163b50a49bd728"
 metafile = true
 
 [[files]]
+file = "mods/jei.toml"
+hash = "d9161a828947d36bb5002a23ac87441ff13374a96e594541e24a703bbb644cc4"
+metafile = true
+
+[[files]]
+file = "mods/just-another-rotten-flesh-to-leather-mod.toml"
+hash = "4ef9848f56f14feebe25321fc11787ed210eb90c7964bf316cd391e818f4d348"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "b0b82537cab9d9686f7c4b7f208dfd390a44dd8eadaaa6b700bc87518abe2a9d"
+metafile = true
+
+[[files]]
 file = "mods/llibrary.toml"
 hash = "b354ed1ed0d2daa6ab96cbe2ec2ffedf68c970b681c67a0ae2f74c3f7357b8ff"
+metafile = true
+
+[[files]]
+file = "mods/magic-seeds-for-electroblobs-wizardry.toml"
+hash = "56581b244c8f23b1b187c3427ee1fb1c208d2ec67aa32d2fb3fce460e96d500c"
 metafile = true
 
 [[files]]
@@ -206,8 +329,38 @@ hash = "4b5eb385460ebd6e15e2f870e3a35f6eab5c1c2cc285c2d25a695f9cf5bf571e"
 metafile = true
 
 [[files]]
+file = "mods/mo-spells.toml"
+hash = "301bd8b6779cdf0564ab0122b87e741429d775579136a73a2f8a4ada5dff826a"
+metafile = true
+
+[[files]]
+file = "mods/mob-dismemberment.toml"
+hash = "96caef74176e86ee34d31fc4d90c40920fb6fe4ec08ebc138a2f99638e91d695"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays.toml"
 hash = "3ab186ffdcd7e52df4486c1ebec7f8ccb733753e1e7b79c0bc68ec56ae9c1e38"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.toml"
+hash = "33d5d1968fda07fc2e1435f095ee3eac2d978cde8e1a0a9886425d461abc9556"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.toml"
+hash = "d38e9cba59d153ab5c37829d60a869b7f95400b89b14d24debaa87246b5cdfbb"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture-tiered-crystals.toml"
+hash = "823833b3989e094c2b363e38b70f301df689a040a84c1106704de8a6fe66e760"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.toml"
+hash = "3440bdc382af0f213cc4c04ed48a1aa8f4677adb5998e7c0af4ee73d72c6c5b8"
 metafile = true
 
 [[files]]
@@ -276,8 +429,18 @@ hash = "918f517d7b9ce29bd4fa49806d743d5035204fe536b179179412da4a546af0ed"
 metafile = true
 
 [[files]]
+file = "mods/spell-bundle.toml"
+hash = "6adf6ff0719a91be203763b54fda75343cd0ea1351653acd5cee3cfe5ca007bd"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.toml"
 hash = "118782e25b3be6017813ee897f8ba86cdf449b552bf6526722befdf6d2c0e494"
+metafile = true
+
+[[files]]
+file = "mods/the-erebus.toml"
+hash = "a6325c3cbf00b7015f2b4e3ca7f387a8ecb9313762b7fd2654f4e3cf51af4e5d"
 metafile = true
 
 [[files]]
@@ -333,4 +496,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.toml"
 hash = "a817611730cc88dec0b99e0f2289eb1f2a6c24ca458679b675a64eb2f0de6f10"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.toml"
+hash = "3e626e4c3c5212d45e798223a70e9a65d346e091682dbcb3980f383c08cff9c2"
 metafile = true

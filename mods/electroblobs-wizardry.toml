@@ -1,0 +1,13 @@
+name = "Electroblob's Wizardry"
+filename = "ElectroblobsWizardry-4.3.7-MC1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3757/344/ElectroblobsWizardry-4.3.7-MC1.12.2.jar"
+hash-format = "murmur2"
+hash = "174945829"
+
+[update]
+[update.curseforge]
+file-id = 3757344
+project-id = 265642

@@ -1,0 +1,13 @@
+name = "Just Another Rotten Flesh to Leather Mod"
+filename = "JRFTL[1.12.2]-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2496/769/JRFTL[1.12.2]-1.1.jar"
+hash-format = "murmur2"
+hash = "4175835725"
+
+[update]
+[update.curseforge]
+file-id = 2496769
+project-id = 247136
