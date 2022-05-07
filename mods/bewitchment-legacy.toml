@@ -1,0 +1,13 @@
+name = "Bewitchment (Legacy)"
+filename = "bewitchment-1.12.2-0.0.22.64.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3256/343/bewitchment-1.12.2-0.0.22.64.jar"
+hash-format = "murmur2"
+hash = "2693478276"
+
+[update]
+[update.curseforge]
+file-id = 3256343
+project-id = 285439

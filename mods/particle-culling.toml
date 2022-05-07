@@ -1,0 +1,13 @@
+name = "Particle Culling"
+filename = "particleculling-1.12.2-v1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3608/582/particleculling-1.12.2-v1.3.1.jar"
+hash-format = "murmur2"
+hash = "122852684"
+
+[update]
+[update.curseforge]
+file-id = 3608582
+project-id = 408853

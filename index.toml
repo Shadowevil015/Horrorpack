@@ -11,6 +11,11 @@ hash = "41fbbb125033961e8d683bf2eb061188c64d4f5f676918dff34c71159a0204c7"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.toml"
+hash = "0eb176e40267bae446449c194e67f181582a47c9fa029fff8a58285edd55e14d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "17c039f61ca9d1b55c3c717be2f0d88ef81a2811bbe4e7e9c4f956a4531ea445"
 metafile = true
@@ -36,6 +41,16 @@ hash = "cc1cdaaf8ee0a01084045225a8fb969ccfc70b6a7751786839270b319c5f177f"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.toml"
+hash = "96a407da5bdb10bffa385f733ed0c0343b5fe1c47f8fd0ee8aa1516990963aa2"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment-legacy.toml"
+hash = "967d7593281e8f4e7c4967e348d69a8acf505841f89ff5a6c3ee812b48579bd4"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft.toml"
 hash = "e044cdd2566845b863697df3cc53adf0ab38432d5d0814696f8abb2f79a47ccf"
 metafile = true
@@ -53,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.toml"
 hash = "f6c978ef26e1072672baf7bd689a66ad218082231403c82d89363e07696a9247"
+metafile = true
+
+[[files]]
+file = "mods/born-in-a-barn.toml"
+hash = "b91f2a580bd4ad7fd53ee60a9b7c41be6be34f913e6edc034bd0a0a1d4405e43"
 metafile = true
 
 [[files]]
@@ -88,6 +108,21 @@ metafile = true
 [[files]]
 file = "mods/death-compass.toml"
 hash = "ac74ce06e6fd7c6d6375bf4bdf2b1a1aeed6fe8aab9e1a3104c68bd8506e9afc"
+metafile = true
+
+[[files]]
+file = "mods/entity-culling.toml"
+hash = "538a79ad3cf0181d612e3ac5c65586a7a0a1c758fb860a3ab2469abd56c67bcf"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.toml"
+hash = "252993f2505dbb4e55bbc21c803cd9316ec0fc7a80be02c5161ab6fc01c9eeff"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.toml"
+hash = "d987b630e0fcb06447a1525d00e70f03858ec149778bb8a7e50e66a839189ced"
 metafile = true
 
 [[files]]
@@ -151,6 +186,16 @@ hash = "9b38cf553a5c70df0f8ff7636a755da371e5f3e7fe6e0b5216081dcfc1e26803"
 metafile = true
 
 [[files]]
+file = "mods/mixin-0-7-0-8-compatibility.toml"
+hash = "188b5c69f32cd116ab35f7fbaa2bbd990e3a5e1c96da8d382073b44a3120e63a"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.toml"
+hash = "2f12ad482bf0d3e1b9ddc17885497d05ca6c37455e4f84ff481d5df15d4fe61a"
+metafile = true
+
+[[files]]
 file = "mods/mmd-orespawn.toml"
 hash = "4e0cf42a9548e88fa4c15f0bec6a57f62ab60e29a0c7e1d66ba7649fcdcef089"
 metafile = true
@@ -171,8 +216,18 @@ hash = "722f8131c55c9fb782b49e32567c95fa3f4c43ed75ca08c993586e675194fc3c"
 metafile = true
 
 [[files]]
+file = "mods/particle-culling.toml"
+hash = "58c2ee40ecd2ef4643ab3ed4dd5327a49a6b68054c17f38354803e6d32823e22"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "c751af85fb8f9b777ac10d1f7f762e4acadaeabba5a44176077762c08deb0a9b"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.toml"
+hash = "028a1ed19515278abf1084316404866c0f67e155c3f67f103cf9f69c88452dd9"
 metafile = true
 
 [[files]]

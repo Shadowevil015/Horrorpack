@@ -1,0 +1,13 @@
+name = "Better Biome Blend"
+filename = "betterbiomeblend-1.12.2-1.1.7-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3554/486/betterbiomeblend-1.12.2-1.1.7-forge.jar"
+hash-format = "murmur2"
+hash = "3162109178"
+
+[update]
+[update.curseforge]
+file-id = 3554486
+project-id = 446253

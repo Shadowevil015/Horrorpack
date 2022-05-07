@@ -1,0 +1,13 @@
+name = "Entity Culling"
+filename = "EntityCulling-1.12.2-5.3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3777/319/EntityCulling-1.12.2-5.3.3.jar"
+hash-format = "murmur2"
+hash = "1299444011"
+
+[update]
+[update.curseforge]
+file-id = 3777319
+project-id = 409087
