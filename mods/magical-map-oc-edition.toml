@@ -1,0 +1,13 @@
+name = "Magical Map OC Edition"
+filename = "Magical Map OC Edition-1.12.2-2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3282/255/Magical Map OC Edition-1.12.2-2.jar"
+hash-format = "murmur2"
+hash = "4278179191"
+
+[update]
+[update.curseforge]
+file-id = 3282255
+project-id = 473769

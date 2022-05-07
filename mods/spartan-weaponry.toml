@@ -1,0 +1,13 @@
+name = "Spartan Weaponry"
+filename = "SpartanWeaponry-1.12.2-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3634/12/SpartanWeaponry-1.12.2-1.4.1.jar"
+hash-format = "murmur2"
+hash = "2167382918"
+
+[update]
+[update.curseforge]
+file-id = 3634012
+project-id = 278141

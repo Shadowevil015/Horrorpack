@@ -1,0 +1,13 @@
+name = "Spartan Weaponry Arcana"
+filename = "SpartanWeaponryArcana-1.12.2-beta-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2762/837/SpartanWeaponryArcana-1.12.2-beta-1.0.3.jar"
+hash-format = "murmur2"
+hash = "827465518"
+
+[update]
+[update.curseforge]
+file-id = 2762837
+project-id = 331829

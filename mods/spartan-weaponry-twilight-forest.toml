@@ -1,0 +1,13 @@
+name = "Spartan Weaponry: Twilight Forest"
+filename = "spartantwilight-1.12.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3507/282/spartantwilight-1.12.2-1.1.1.jar"
+hash-format = "murmur2"
+hash = "1069096132"
+
+[update]
+[update.curseforge]
+file-id = 3507282
+project-id = 533570

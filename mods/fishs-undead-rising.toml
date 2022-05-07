@@ -1,0 +1,13 @@
+name = "Fish's Undead Rising"
+filename = "Fish's Undead Rising-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3773/827/Fish's Undead Rising-1.3.2.jar"
+hash-format = "murmur2"
+hash = "1022078524"
+
+[update]
+[update.curseforge]
+file-id = 3773827
+project-id = 321139

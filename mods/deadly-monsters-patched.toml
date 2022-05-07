@@ -1,0 +1,13 @@
+name = "Deadly Monsters Patched"
+filename = "DeadlyMonsters-1.12.2-1.9.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3758/385/DeadlyMonsters-1.12.2-1.9.5.jar"
+hash-format = "murmur2"
+hash = "2832034191"
+
+[update]
+[update.curseforge]
+file-id = 3758385
+project-id = 523815

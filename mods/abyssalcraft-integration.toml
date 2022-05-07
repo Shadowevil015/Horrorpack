@@ -1,0 +1,13 @@
+name = "AbyssalCraft Integration"
+filename = "AbyssalCraft Integration-1.12.2-1.11.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3425/537/AbyssalCraft Integration-1.12.2-1.11.3.jar"
+hash-format = "murmur2"
+hash = "950962331"
+
+[update]
+[update.curseforge]
+file-id = 3425537
+project-id = 234851

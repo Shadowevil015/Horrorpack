@@ -1,0 +1,13 @@
+name = "Wizard's Animals"
+filename = "WizardAnimalsBeta1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2745/53/WizardAnimalsBeta1.0.jar"
+hash-format = "murmur2"
+hash = "1676383356"
+
+[update]
+[update.curseforge]
+file-id = 2745053
+project-id = 327452

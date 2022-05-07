@@ -1,0 +1,13 @@
+name = "Spartan Shields"
+filename = "SpartanShields-1.12.2-1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3567/495/SpartanShields-1.12.2-1.5.5.jar"
+hash-format = "murmur2"
+hash = "855679918"
+
+[update]
+[update.curseforge]
+file-id = 3567495
+project-id = 252239

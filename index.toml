@@ -1,0 +1,281 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/abyssalcraft-integration.toml"
+hash = "16f01b445c2c5397a11edd76c2e885eb5dd88bdf8232875843311d6a4656b2ff"
+metafile = true
+
+[[files]]
+file = "mods/abyssalcraft.toml"
+hash = "41fbbb125033961e8d683bf2eb061188c64d4f5f676918dff34c71159a0204c7"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "17c039f61ca9d1b55c3c717be2f0d88ef81a2811bbe4e7e9c4f956a4531ea445"
+metafile = true
+
+[[files]]
+file = "mods/armor-chroma.toml"
+hash = "9a9f39864c81ade264962c33fe79dd651c9cbd241c97e6ac90d1814eded2ad6b"
+metafile = true
+
+[[files]]
+file = "mods/astral-sorcery.toml"
+hash = "f2ef556bdf752eff3ad4ff3f967a33da33868ae9c422d09f9cb31ad6ea7fa7c9"
+metafile = true
+
+[[files]]
+file = "mods/baubles.toml"
+hash = "6950f875d88af8a6eeafc8d0ff303aa24bec9117940591c401bfd263711688bd"
+metafile = true
+
+[[files]]
+file = "mods/baubley-heart-canisters.toml"
+hash = "cc1cdaaf8ee0a01084045225a8fb969ccfc70b6a7751786839270b319c5f177f"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.toml"
+hash = "e044cdd2566845b863697df3cc53adf0ab38432d5d0814696f8abb2f79a47ccf"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.toml"
+hash = "82022f11d4396aaaa00efa688fa3824e57fbeef03924fcb759c75d61cdab7931"
+metafile = true
+
+[[files]]
+file = "mods/bloodmoon.toml"
+hash = "9016453e34038ac97004e2c8c21738561cd2f7796af57c360d6ee9e3791c570d"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.toml"
+hash = "f6c978ef26e1072672baf7bd689a66ad218082231403c82d89363e07696a9247"
+metafile = true
+
+[[files]]
+file = "mods/botania.toml"
+hash = "219429d7ea7c91f99d3f6c868f1adfeef5fb90b94f0d34ee66df7e9f0d486dc4"
+metafile = true
+
+[[files]]
+file = "mods/chameleon.toml"
+hash = "8d44c7530740c2c9dc9a38a1cd4985a80548a36b4ba71912cdaad5f6b4d31b84"
+metafile = true
+
+[[files]]
+file = "mods/chisel.toml"
+hash = "281b78d64351c597eb5eb18de980d2f186fd3a1767bc24be058333b31c851df8"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "b04ab33f35ae490ec7af5ccba7e8b6f731b7754acc04deeb4f1c7397e14a5691"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "bc75d8203e6f8e2fe15ddd0a1b9cb661c97199b53a7e9e36169083191451a5b0"
+metafile = true
+
+[[files]]
+file = "mods/deadly-monsters-patched.toml"
+hash = "e0df058df41ba259f7dc7dc17e03485b4a5c2060a9aab38954b433674b90ad71"
+metafile = true
+
+[[files]]
+file = "mods/death-compass.toml"
+hash = "ac74ce06e6fd7c6d6375bf4bdf2b1a1aeed6fe8aab9e1a3104c68bd8506e9afc"
+metafile = true
+
+[[files]]
+file = "mods/fishs-undead-rising.toml"
+hash = "cdd226d458c0489cb50758e3f5252bcdb9c0e65dbcae0c4942635b526f329cf6"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.toml"
+hash = "26f80d1dd1faa9d9f3f2676b312c4a409c5fd41fcf3045a41b6ddc80c181a02a"
+metafile = true
+
+[[files]]
+file = "mods/global-xp.toml"
+hash = "c7fee3bf67cefecce59df256c42a788038c81efed528238c0039e19508ae9436"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-darkness.toml"
+hash = "5fc4e5649561f1cb262b202e36c83a47ef1aef1f23e1f3d47e753da8cd0be338"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.toml"
+hash = "83e2ac68eca46dae06d6ed191e8d55fe72faa69a98bcde2303fd9d1658e052de"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.toml"
+hash = "98f5789620a61b4505f64c6c80654df5a4dae121138afd75ed634a30591c6753"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.toml"
+hash = "0b983fac25b9bec09fcfc3d8fd999172338a41b1606677d63c0bb9df7c63b02c"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.toml"
+hash = "f509cfc8188340dad5bd4af026b76428f7aae659edc19113fb163b50a49bd728"
+metafile = true
+
+[[files]]
+file = "mods/llibrary.toml"
+hash = "b354ed1ed0d2daa6ab96cbe2ec2ffedf68c970b681c67a0ae2f74c3f7357b8ff"
+metafile = true
+
+[[files]]
+file = "mods/magical-map-oc-edition.toml"
+hash = "b5242fe652f088acfb61e5795e6a5a29778de37915a8459f4859a995c96eaa8b"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "c8f1a3b184a30fbc1b111a49e4af723e09708134c790a332981147a10e6700bd"
+metafile = true
+
+[[files]]
+file = "mods/max-potion-id-extender.toml"
+hash = "9b38cf553a5c70df0f8ff7636a755da371e5f3e7fe6e0b5216081dcfc1e26803"
+metafile = true
+
+[[files]]
+file = "mods/mmd-orespawn.toml"
+hash = "4e0cf42a9548e88fa4c15f0bec6a57f62ab60e29a0c7e1d66ba7649fcdcef089"
+metafile = true
+
+[[files]]
+file = "mods/mo-bends.toml"
+hash = "4b5eb385460ebd6e15e2f870e3a35f6eab5c1c2cc285c2d25a695f9cf5bf571e"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays.toml"
+hash = "3ab186ffdcd7e52df4486c1ebec7f8ccb733753e1e7b79c0bc68ec56ae9c1e38"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.toml"
+hash = "722f8131c55c9fb782b49e32567c95fa3f4c43ed75ca08c993586e675194fc3c"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "c751af85fb8f9b777ac10d1f7f762e4acadaeabba5a44176077762c08deb0a9b"
+metafile = true
+
+[[files]]
+file = "mods/placebo.toml"
+hash = "b63bdee19f8019599a732a935c73cc62640d4bfdc974a8fc95e0fe0732adc1fd"
+metafile = true
+
+[[files]]
+file = "mods/realistic-torches.toml"
+hash = "9e1bffa6782a7287d7f4435ae44451a9aacc9931a09ad74c4f45058b445c8973"
+metafile = true
+
+[[files]]
+file = "mods/roguelike-dungeons.toml"
+hash = "7fb2eea531a0997b3de8bbf8b7184552dcc5565556f85c8018c8f298c5a9aff4"
+metafile = true
+
+[[files]]
+file = "mods/save-my-stronghold.toml"
+hash = "1733ab3aa2f6f6b30a66ad437bb87b172bdde3c0f5d3dd4f7ee34a74c99614b4"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites.toml"
+hash = "5f5a783a87a0917f2b6712c6311b5e25d721ab6d29288596951bd4dd482753e4"
+metafile = true
+
+[[files]]
+file = "mods/spartan-shields.toml"
+hash = "716098fd6aeeb688a7b4a0833d00d0003a60142d1e79cc5dbd1b4478ec84f417"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry-arcana.toml"
+hash = "16981a0a7b6e6a450213dc764ea20db6cb54213e845e1add65ddad843ec2f2c4"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry-twilight-forest.toml"
+hash = "ef4df0d09b9a7be34555b92d5f8166c801e87420592ee528d8979229a4adff5b"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry.toml"
+hash = "918f517d7b9ce29bd4fa49806d743d5035204fe536b179179412da4a546af0ed"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.toml"
+hash = "118782e25b3be6017813ee897f8ba86cdf449b552bf6526722befdf6d2c0e494"
+metafile = true
+
+[[files]]
+file = "mods/the-midnight.toml"
+hash = "28aa16ecc8c0e354cfd95c44cba0e33f88c835d846f9f7e23e5a78c69e3e90cc"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.toml"
+hash = "5ada12e719931b749e48a8b6e3d3ea3cf5c13dffc98a14aab599f3f0247f02c0"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-damage-indicators.toml"
+hash = "615877e60e8d5422aee7d49bf9037047f8e21edd58a11280fde545063fcbd96f"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.toml"
+hash = "2c6cbfb3b7ba0186f814929a0f7c5fbbf65fd2f6c167a66bcba43b9a0bd6fa8f"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-become-a-vampire.toml"
+hash = "6de1b91ab4882568a0e0d92d4048edd39a5ad61db31a1f32e916f1c733885f5d"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.toml"
+hash = "91dc26c4bf257711347559e88d3324a855c4cea3b67d229276785496eab73903"
+metafile = true
+
+[[files]]
+file = "mods/waila-harvestability.toml"
+hash = "a7f7ef6fe9cb2ab4b9b7702ba966137a530ce8b2f6dbf2f305f4c17ec96f62c4"
+metafile = true
+
+[[files]]
+file = "mods/waystones.toml"
+hash = "0aa23a38dbc3e7a9d9fb722a9550f1fe3b1651fbe3877561bb8daec7bbb95159"
+metafile = true
+
+[[files]]
+file = "mods/wizards-animals.toml"
+hash = "71a34e36c98758357b02ae98cd608561a53108c3b7a2e4a23c96ef85dfecc416"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.toml"
+hash = "b39da2cf35b579ea2be93612eeb1e349f85a2c6e9265e1b389c3864f2b53429a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "a817611730cc88dec0b99e0f2289eb1f2a6c24ca458679b675a64eb2f0de6f10"
+metafile = true
