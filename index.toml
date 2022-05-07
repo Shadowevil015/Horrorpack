@@ -1057,6 +1057,11 @@ hash = "96a407da5bdb10bffa385f733ed0c0343b5fe1c47f8fd0ee8aa1516990963aa2"
 metafile = true
 
 [[files]]
+file = "mods/betterfps.toml"
+hash = "7d2048b6cb37d3f125b4b761354ae9e46d255d6588853cdb62d55a5940eedc31"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment-legacy.toml"
 hash = "967d7593281e8f4e7c4967e348d69a8acf505841f89ff5a6c3ee812b48579bd4"
 metafile = true
@@ -1377,6 +1382,10 @@ hash = "b63bdee19f8019599a732a935c73cc62640d4bfdc974a8fc95e0fe0732adc1fd"
 metafile = true
 
 [[files]]
+file = "mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+hash = "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c"
+
+[[files]]
 file = "mods/realistic-torches.toml"
 hash = "9e1bffa6782a7287d7f4435ae44451a9aacc9931a09ad74c4f45058b445c8973"
 metafile = true
@@ -1459,6 +1468,11 @@ metafile = true
 [[files]]
 file = "mods/vampirism-integrations.toml"
 hash = "91dc26c4bf257711347559e88d3324a855c4cea3b67d229276785496eab73903"
+metafile = true
+
+[[files]]
+file = "mods/vanillafix.toml"
+hash = "8180e722490cacd569d00f5c83f6556cc3201f94ca6ec54dbe3a00ca9ec4940c"
 metafile = true
 
 [[files]]
