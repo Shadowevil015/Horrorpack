@@ -1297,6 +1297,11 @@ hash = "9b38cf553a5c70df0f8ff7636a755da371e5f3e7fe6e0b5216081dcfc1e26803"
 metafile = true
 
 [[files]]
+file = "mods/mixin-0-7-0-8-compatibility.toml"
+hash = "188b5c69f32cd116ab35f7fbaa2bbd990e3a5e1c96da8d382073b44a3120e63a"
+metafile = true
+
+[[files]]
 file = "mods/mixinbootstrap.toml"
 hash = "2f12ad482bf0d3e1b9ddc17885497d05ca6c37455e4f84ff481d5df15d4fe61a"
 metafile = true
@@ -1393,6 +1398,11 @@ metafile = true
 [[files]]
 file = "mods/scape-and-run-parasites.toml"
 hash = "5f5a783a87a0917f2b6712c6311b5e25d721ab6d29288596951bd4dd482753e4"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.toml"
+hash = "f6e68fa20ea7f5dd7ed445cf84cc2693d5f9866082fd123b27c823d3dfb577d5"
 metafile = true
 
 [[files]]
