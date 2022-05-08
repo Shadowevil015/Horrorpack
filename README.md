@@ -96,6 +96,8 @@
 - VanillaFix (<https://minecraft.curseforge.com/projects/292785>)
 - Waila Harvestability (<https://minecraft.curseforge.com/projects/79287>)
 - Waystones (<https://minecraft.curseforge.com/projects/245755>)
+- Xaero's Minimap (<https://minecraft.curseforge.com/projects/263420>)
+- Xaero's World Map (<https://minecraft.curseforge.com/projects/317780>)
 - YUNG's Better Caves (Forge) (<https://minecraft.curseforge.com/projects/340583>)
 - YUNG's Better Mineshafts (Forge) (<https://minecraft.curseforge.com/projects/389665>)
 - Zombie Awareness (<https://minecraft.curseforge.com/projects/237754>)

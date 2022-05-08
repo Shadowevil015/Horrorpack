@@ -1486,6 +1486,16 @@ hash = "0aa23a38dbc3e7a9d9fb722a9550f1fe3b1651fbe3877561bb8daec7bbb95159"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "33432bc261ca0f58c1f0723bd690840b6c89e68d4ef0ba8369630d5494b8ac61"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "576a6c01eaf7c04a79b32ce3a1c73d2972bfe8b4fcb1a3b560f95c5e425a78f1"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-caves.toml"
 hash = "b39da2cf35b579ea2be93612eeb1e349f85a2c6e9265e1b389c3864f2b53429a"
 metafile = true
